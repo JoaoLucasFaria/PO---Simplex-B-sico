@@ -1,4 +1,4 @@
-# PO---Simplex-B-sico
+# PO-Simplex-Básico
 Primeira atividade da matéria de Pesquisa Operacional (2025/2 - UFSJ)
 
 Formato de entrada:
